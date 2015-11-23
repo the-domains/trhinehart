@@ -1,0 +1,28 @@
+name: trhinehart
+favicon: null
+layout_spectrum: 0.5152916349470615
+typography_spectrum: 0.5292776662390679
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.02164815878495574
+  lightness: 0.3107253131456673
+  saturation: 0.5400209466461092
+  rhythmicContrast: 0.2566365785896778
+purpose: []
